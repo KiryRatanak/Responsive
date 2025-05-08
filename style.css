@@ -27,7 +27,7 @@ body{
 }
 
 .card:hover{
-    transition: 0.5s;
+    transition: 0.7s;
     scale: 105%;
 }
 
